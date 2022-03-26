@@ -2,3 +2,4 @@ Matafuego 1 kgrs
 Matafuego 2.5 kgrs
 Matafuego 5 kgrs
 Matafuego 10 kgrs
+Matafuego 25 kgrs
