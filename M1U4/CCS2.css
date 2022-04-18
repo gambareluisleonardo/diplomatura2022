@@ -1,10 +1,38 @@
-p{
-    color: green;
-    font-size: 20px;
-    line-height: 25px;
+p {
+  color: green;
+  font-size: 20px;
+  line-height: 25px;
 }
-h1{
-    color: red;
-    background-color: yellow;
-    
+h1 {
+  color: red;
+  background-color: yellow;
+  width: 325px;
+}
+.destacados {
+  color: plum;
+  font-weight: bold;
+  font-style: italic;
+}
+#azul {
+  width: 300px;
+  /*width: 50%;*/
+  height: 200px;
+  background-color: aqua;
+  /*padding: 20px;*/
+  box-sizing: border-box;
+  margin: 0 auto;
+  /* margin-top: 50px;
+  margin-bottom: 20px;*/
+  border: 2px solid rgb(93, 123, 62);
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+#rojo {
+  width: 300px;
+  height: 200px;
+  background-color: royalblue;
+  border-right: 2px solid black;
+  /*border-right: 2px dashed black;*/
+  padding: 10px;
 }
