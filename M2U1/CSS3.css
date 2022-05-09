@@ -1,0 +1,40 @@
+/*unidad 2 clase 1
+font-family: 'Oswald', sans-serif;
+*/
+body {
+  background-color: rgb(209, 225, 220);
+}
+h3 {
+  color: red;
+  font-family: "Oswald", sans-serif;
+  font-size: 25px;
+  margin: 0px;
+}
+.caja {
+  width: 600px;
+  height: 600px;
+  background-color: yellow;
+  margin: 100px;
+  background: #3a00ff;
+  background: linear-gradient(90deg, #3a00ff 0%, #7371b6 80%);
+  background: -webkit-linear-gradient(90deg, #3a00ff 0%, #7371b6 80%);
+  background: -moz-linear-gradient(90deg, #3a00ff 0%, #7371b6 80%);
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 20px 0 20px 50px;
+  box-shadow: 0px 0px 5px black;
+  /*eje x - eje y - desenfoque - color*/
+  border: 1px solid white;
+  columns: 3;
+  column-gap: 50px;
+  column-rule: 2px solid red;
+}
+.caja p {
+  margin: 0;
+  font-family: "Oswald", sans-serif;
+}
+.grande {
+  color: green;
+  font-size: 140px;
+}

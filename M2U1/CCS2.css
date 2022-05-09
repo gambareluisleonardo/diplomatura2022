@@ -1,12 +1,13 @@
 p {
-  color: green;
+  /*color: green;*/
   font-size: 20px;
   line-height: 25px;
 }
 h1 {
-  color: red;
-  background-color: yellow;
+  color: rgb(8, 8, 8);
+  background-color: rgb(86, 102, 114);
   width: 325px;
+  opacity: 0.6;
 }
 .destacados {
   color: plum;
